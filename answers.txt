@@ -1,0 +1,23 @@
+What are the three main design advantages that object orientation can provide?
+
+Explain each concept.
+
+    Encapsulation: Makes your program have completely self-contained chunks allowing them to work independently of
+    one another
+
+What is a class?
+    a class is a template that can be instantiated to create a unique instance of it each time it is called.
+
+What is an instance attribute?
+    an instance is an attribute that is defined at the instance level. For example, if Cat is a class, and
+    Ezra and Auden are instances of the cat class, an instance attribute is an attribute that Ezra or Auden has
+    but the other may not necessarily have.
+
+What is a method?
+    a method is a function defined within a class that acts on an instance of the class when the method is called.
+
+What is an instance in object orientation?
+    an instance is a unique object that inherits attributes and methods from the class used to instantiate it.
+
+How is a class attribute different than an instance attribute? Give an example of when you might use each.
+    a class attibute is something that is common for all instances of a class.
