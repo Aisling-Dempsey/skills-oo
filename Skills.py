@@ -49,6 +49,7 @@ def take_test(test, student):
     student.score = test.administer()
 
 def example():
+    """test function to create and administer exam to student baloonicorn"""
     final = Exam('final')
     final.add_question('Do you like SF?', 'Yes')
     final.add_question('2 + 2', '4')
